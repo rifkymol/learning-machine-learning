@@ -10,22 +10,37 @@ Folder ini berisi tutorial dasar-dasar Python yang diperlukan untuk machine lear
    - Loops & Conditionals
    - Functions
 
-2. **02_numpy_introduction.ipynb**
-   - Arrays & Matrices
-   - Array Operations
-   - Broadcasting
-   - Statistical Functions
-
-3. **03_pandas_basics.ipynb**
-   - DataFrames & Series
-   - Reading data (CSV, Excel)
-   - Data selection & filtering
-   - Data cleaning
+2. **01_python_fundamentals_SOLUTIONS.ipynb** ✅
+   - **Auto-validation untuk semua exercises!**
+   - Copy jawaban Anda dan run validation cells
+   - Instant feedback: ✅ correct atau ❌ try again
 
 ## ⏱️ Estimasi Waktu
 
 - Total: 1-2 minggu
 - Per notebook: 2-4 jam
+
+## ✅ How to Validate Your Exercises
+
+Setiap exercise sekarang punya **validation**! Dua cara menggunakannya:
+
+### Method 1: Solutions Notebook (Recommended)
+1. Kerjakan exercise di `01_python_fundamentals.ipynb`
+2. Buka `01_python_fundamentals_SOLUTIONS.ipynb`
+3. Copy jawaban Anda ke cell yang sesuai
+4. Run validation cell
+5. Lihat feedback: ✅ atau ❌
+
+### Method 2: Inline Validation
+Add validation code di bawah jawaban Anda:
+```python
+# Your solution
+my_name = "Rifky"
+
+# Validation
+assert isinstance(my_name, str), "Should be a string"
+print("✅ Correct!")
+```
 
 ## 🎯 Learning Objectives
 

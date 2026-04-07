@@ -19,7 +19,7 @@ Selamat datang di repositori pembelajaran machine learning Anda! Repositori ini 
 - [ ] Supervised vs Unsupervised Learning
 - [ ] Train-Test Split & Cross Validation
 - [ ] Regression (Linear, Polynomial)
-- [ ] Classification (Logistic Regression, KNN, Decision Trees)
+- [ ] Classification (Logistic Regression, KNN, Decision Trees)+
 - [ ] Clustering (K-Means)
 - [ ] Model Evaluation (accuracy, precision, recall, F1)
 
@@ -73,6 +73,22 @@ jupyter notebook
 ### 3. Mulai dari Folder 01
 
 Buka folder `01-python-basics` dan mulai dengan notebook pertama.
+
+## ✅ Exercise Validation System
+
+**NEW!** Setiap exercise dilengkapi dengan **automatic validation**!
+
+- ✅ **Instant feedback** - Tahu langsung benar/salah
+- 💡 **Helpful hints** - Error messages yang jelas
+- 🎉 **Track progress** - Yakin sudah benar sebelum lanjut
+
+**Cara menggunakan:**
+1. Kerjakan exercise di notebook utama
+2. Buka file `*_SOLUTIONS.ipynb` untuk validation
+3. Copy jawaban Anda dan run validation cell
+4. Lihat feedback: ✅ correct atau ❌ try again
+
+**Baca:** [VALIDATION_GUIDE.md](VALIDATION_GUIDE.md) untuk detail lengkap!
 
 ## 📊 Dataset yang Digunakan
 

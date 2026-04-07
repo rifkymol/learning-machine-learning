@@ -11,19 +11,43 @@ Modul ini mengajarkan NumPy dan Pandas, dua library fundamental untuk data scien
    - Linear Algebra Basics
    - Random Numbers
    
-2. **02_pandas_dataframes.ipynb**
+2. **01_numpy_basics_SOLUTIONS.ipynb** ✅
+   - **Auto-validation untuk semua NumPy exercises!**
+   - Instant feedback untuk setiap jawaban
+   - Step-by-step guidance
+   
+3. **02_pandas_dataframes.ipynb** (Coming soon)
    - Series & DataFrames
    - Reading/Writing Data (CSV, Excel)
    - Data Selection & Filtering
    - Handling Missing Data
    - Basic Statistics
    
-3. **03_data_manipulation.ipynb**
+4. **03_data_manipulation.ipynb** (Coming soon)
    - GroupBy Operations
    - Merging & Joining
    - Pivot Tables
    - String Operations
    - Date/Time Handling
+
+## ✅ Exercise Validation
+
+Setiap exercise NumPy sekarang punya **automatic validation**!
+
+### How to Use:
+1. Kerjakan exercise di `01_numpy_basics.ipynb`
+2. Buka `01_numpy_basics_SOLUTIONS.ipynb`
+3. Copy jawaban Anda ke cell yang sesuai
+4. Run validation cell
+5. Get instant feedback: ✅ atau ❌
+
+### Example Feedback:
+```
+✅ arr1 is a NumPy array
+✅ arr1 correct: [10 11 12 13 14 15 16 17 18 19 20]
+✅ arr2 is 4x4 matrix with values 0-100
+🎉 Perfect! All arrays created correctly!
+```
 
 ## ⏱️ Estimasi Waktu
 
